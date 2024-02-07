@@ -2,7 +2,14 @@
   "name": "php-static-analysis",
   "displayName": "PHP Static Analysis",
   "description": "Visual Studio Code plugin to parse PHP static analysis attributes",
-  "version": "0.0.1",
+  "repository": "https://github.com/php-static-analysis/vs-code-extension",
+  "author": {
+    "name": "Carlos Granados",
+    "email": "carlos@fastdebug.io"
+  },
+  "license": "MIT",
+  "pricing": "Free",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.86.0"
   },
