@@ -1,2 +1,2 @@
-# vs-code-plugin
-Visual Studio Code plugin to parse PHP static analysis attributes
+# PHP Static Analysis Visual Studio Code Extension
+Visual Studio Code extension to parse PHP static analysis attributes
