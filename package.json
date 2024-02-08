@@ -16,9 +16,16 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onLanguage:php"
+  ],
   "main": "./out/extension.js",
   "contributes": {
+    "languages": [
+      {
+        "id": "php"
+      }
+    ],
     "commands": [
       {
         "command": "php-static-analysis.helloWorld",
